@@ -21,8 +21,8 @@ The complete source code is not publicly archived in this repository at this sta
 
 Researchers who are interested in the implementation may contact the corresponding author:
 
-Corresponding author: [Your Name]  
-Email: [Your Email]
+Corresponding author: Huixin Wu
+Email: wuhuixin@ncwu.edu.cn
 
 ## Citation
 
@@ -50,8 +50,8 @@ SGR-SLAM 是一种面向动态环境的视觉 SLAM 方法，融合了语义分�
 
 对实现细节感兴趣的研究人员可联系通讯作者：
 
-通讯作者：[Your Name]  
-邮箱：[Your Email]
+通讯作者：吴慧欣
+邮箱：wuhuixin@ncwu.edu.cn
 
 ## 引用
 
