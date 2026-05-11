@@ -17,7 +17,7 @@ The experiments in the paper were conducted on publicly available datasets:
 
 ## Code Availability
 
-The complete source code is not publicly archived in this repository at this stage. Access may be granted upon reasonable request for academic research purposes.
+The complete source code is not publicly archived at this stage due to ongoing project maintenance and institutional intellectual property considerations; however, access to the source code may be granted by the corresponding author upon reasonable request for academic research purposes.
 
 Researchers who are interested in the implementation may contact the corresponding author:
 
